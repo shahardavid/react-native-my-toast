@@ -1,17 +1,20 @@
-# react-native-my-toast
+# react-native-my-toast-module
 
 ## Getting started
 
-`$ npm install react-native-my-toast --save`
-
-### Mostly automatic installation
-
-`$ react-native link react-native-my-toast`
+`$ npm install react-native-my-toast-module --save`
 
 ## Usage
 ```javascript
-import MyToast from 'react-native-my-toast';
+import MyToast from 'react-native-my-toast-module';
 
-// TODO: What to do with the module?
-MyToast;
+MyToast.show(toastMessage: String);
 ```
+
+## Example Project
+To run the example project:
+
+1. `cd example`
+2. For iOS run: `npx react-native run-ios`
+3. For Android run: `npx react-native run-android`
+

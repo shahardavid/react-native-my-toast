@@ -2,7 +2,7 @@
   "name": "react-native-my-toast-module",
   "title": "React Native My Toast",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "React Native native module implementing example ",
   "main": "index.js",
   "files": [
     "README.md",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-my-toast.git",
-    "baseUrl": "https://github.com/github_account/react-native-my-toast"
+    "url": "git+https://github.com/shahardavid/react-native-my-toast.git",
+    "baseUrl": "https://github.com/shahardavid/react-native-my-toast"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Shahar David",
+    "email": "shahard333@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
